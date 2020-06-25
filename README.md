@@ -1,6 +1,6 @@
 # Deploying the Neighborly App with Azure Functions
 
-## Project Overview
+## Project Overview 
 
 For the final project, we are going to build an app called "Neighborly". Neighborly is a Python Flask-powered web application that allows neighbors to post advertisements for services and products they can offer.
 
